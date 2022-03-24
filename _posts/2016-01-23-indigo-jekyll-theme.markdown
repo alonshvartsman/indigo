@@ -1,9 +1,9 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: "Bitrawr"
 layout: post
-date: 2016-01-23 22:10
+date: 2019-07-15 22:10
 tag: jekyll
-image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
+image: https://bitrawr.s3.eu-central-1.amazonaws.com/assets/logo_images/bitrawr-text-logo.svg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -21,12 +21,12 @@ Example of project - Indigo Minimalist Jekyll Template - [Demo](https://sergioko
 
 What has inside?
 
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
+-   Gulp
+-   BrowserSync
+-   Stylus
+-   SVG
+-   No JS
+-   [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
 
 ---
 
